@@ -27,7 +27,7 @@ This project is a clone of the popular e-commerce website, Flipkart. It allows u
 
 ## Project Link
 
-[![Project Link](https://img.icons8.com/fluency/48/000000/external-link.png)](https://flipkarmyclone.netlify.app/))
+[![Project Link](https://img.icons8.com/fluency/48/000000/external-link.png)](https://flipkarmyclone.netlify.app/)
 
 ## Setup Instructions
 
